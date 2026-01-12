@@ -1,0 +1,26 @@
+# виртуальные окружения
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# кэш Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# sqlite-базы
+*.sqlite3
+*.sqlite
+db.sqlite3
+
+# IDE (PyCharm / VSCode)
+.idea/
+.vscode/
+
+# логи и служебные файлы
+*.log
+.DS_Store
+Thumbs.db
